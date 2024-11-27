@@ -1,7 +1,7 @@
 # 💫 About Me
 👋 Hey there! I’m Luke, a passionate tech lead and full-stack software developer. I love creating innovative software solutions that make a real difference in people’s lives.
 
-Your support helps me continue developing tools and applications for those who need them most. Any support via PayPal.me or buying me a coffee fuels my coding sessions and keeps the creativity flowing. (Find links at the bottom) ☕️✨
+Your support helps me continue developing tools and applications for those who need them most. Any support via PayPal.me or buying me a coffee fuels my coding sessions and keeps the creativity flowing. ☕️✨
 
 Thank you for being awesome and supporting my journey!
 
